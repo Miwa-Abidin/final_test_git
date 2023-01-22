@@ -1,0 +1,7 @@
+.idea/
+venv/
+app/db.sqlite3
+app/accounts/migrations
+app/posts/migrations
+
+**/__pycache__/
