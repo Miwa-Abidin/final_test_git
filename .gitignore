@@ -1,7 +1,7 @@
-.idea/
 venv/
+app/entrypoint.sh
+app/entrypoint.prod.sh
 app/db.sqlite3
-app/accounts/migrations
-app/posts/migrations
-
-**/__pycache__/
+.idea/
+.env.prod
+.env.prod.db
